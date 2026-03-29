@@ -17,7 +17,7 @@ Yeh ek professional aur responsive Currency Converter hai jo live exchange rates
 - **API:** ExchangeRate-API
 
 ## 📸 Demo
-> **Live Link:** [Yahan apna GitHub Pages wala link paste karein]
+> **Live Link:** [https://majidhassan403.github.io/currency-converter-pro/]
 
 ---
 👤 **Majid Hassan**
